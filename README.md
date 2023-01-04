@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Información Brindada por Entidades Públicas respecto a Procesos Meritocráticos
+# 🥇 Información Brindada por Entidades Públicas respecto a Procesos Meritocráticos
 
 Este proyecto es apoyado por el Observatorio en Evaluación y Meritocracia de la Universidad Nacional de Colombia, con el objetivo de conocer la información que brindan las entidades públicas sobre los procesos meritocráticos que llevan a cabo. [Datos Abiertos Colombia](https://www.datos.gov.co/) fue la fuente de datos, debido a que contienen información pública dispuesta en formatos que permiten su uso y reutilización bajo licencia abierta y sin restricciones legales.
 
